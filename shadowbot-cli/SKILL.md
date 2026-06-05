@@ -1,4 +1,4 @@
-﻿---
+---
 name: shadowbot-cli
 description: Operate ShadowBot (影刀) from Windows PowerShell via shadowbot.shell-cli.exe. Use when user requests login, mode/page/theme switch, app/group/collaborator actions, task run/stop/logs, trigger management, message center, extension install, or Studio open/edit/save/sync. Execute real CLI commands only; never invent commands.
 ---
